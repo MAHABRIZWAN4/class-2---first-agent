@@ -64,7 +64,7 @@ uv add openai-agents
 STEP 3 ==> 
 
 MODEL_NAME = "gemini-2.0-flash"
-GEMINI_API_KEY = "AIzaSyAecsrrwh88cflsLiwae-aBReg_r6LcsUY" is ko .env ke under daalein ge 
+GEMINI_API_KEY = "your_gemini_api"is ko .env ke under daalein ge 
 ABB ENV SE KEY LANE KE LYE HAMEIN UV KA PACKAGE INSTALL KERNA HE PHIR LOAD KEREIN GE
 uv add dotenv
 from dotenv import load_dotenv
